@@ -63,6 +63,10 @@ button:hover {
     background-color: #2980b9;
 }
 
+img_left {
+  float: left;
+}
+
 /* Footer */
 footer {
     text-align: center;
