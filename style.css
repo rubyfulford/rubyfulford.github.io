@@ -18,7 +18,7 @@ header {
 
 /* Navigation */
 nav {
-    background-color: #FFF0F0;
+    background-color: #F2B4B4;
     padding: 10px;
     text-align: center;
 }
@@ -46,9 +46,11 @@ main {
 
 /* Headings */
 h1 {
+    font-family: 'Courier new', monospace;
     color: #FFF0F0;
 }
 h2 {
+    font-family: 'Courier new', monospace;
     color: #000826;
 }
 
