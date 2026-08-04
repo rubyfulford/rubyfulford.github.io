@@ -1,6 +1,6 @@
 /* General page styling */
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Helvetica, sans-serif;
     background-color: #000826;
     color: #000826;
     margin: 0;
@@ -46,13 +46,13 @@ main {
 
 /* Headings */
 h1 {
-    font-family: 'Courier new', monospace;
     font-style: bold;
     color: #F2B4B4;
+    font-size:48px;
 }
 h2 {
-    font-family: 'Courier new', monospace;
     color: #000826;
+    font-size: 26px;
 }
 
 /* Buttons */
