@@ -1,7 +1,7 @@
 /* General page styling */
 body {
     font-family: Verdana, Helvetica, sans-serif;
-    background-color: #000826;
+    background-color:#120005;
     color: #000826;
     margin: 0;
     padding: 0;
@@ -10,15 +10,15 @@ body {
 
 /* Header */
 header {
-    background-color: #000826;
+    background-color: #000000;
     color: white;
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 /* Navigation */
 nav {
-    background-color: #FFF0F0;
+    background-color: #E8B7BC;
     padding: 10px;
     text-align: center;
 }
@@ -31,8 +31,10 @@ nav a {
 }
 
 nav a:hover {
-    color: #FF7D9D;
+    color: #521426;
 }
+nav a:active {
+    text-decoration: underline; 
 
 /* Main content */
 main {
@@ -48,7 +50,7 @@ main {
 h1 {
     font-style: bold;
     color: #F2B4B4;
-    font-size:48px;
+    font-size:36px;
 }
 h2 {
     color: #000826;
